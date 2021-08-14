@@ -2,8 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-PoojaShinde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pooja-shinde-0b3ab5219/)](https://www.linkedin.com/in/pooja-shinde-0b3ab5219/)
-
-[![stackoverflow Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/16665406/pooja-shinde)
+[![stackoverflow Badge](https://img.shields.io/badge/StackOverflow-PoojaShinde-yellow)](https://stackoverflow.com/users/16665406/pooja-shinde)
 
 I'm Pooja Shinde
 FULL STACK DEVELOPMENT INTERSHIP EDUREKA 
