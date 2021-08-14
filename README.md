@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-PoojaShinde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pooja-shinde-0b3ab5219/)](https://www.linkedin.com/in/pooja-shinde-0b3ab5219/)
 [![stackoverflow Badge](https://img.shields.io/badge/StackOverflow-PoojaShinde-yellow)](https://stackoverflow.com/users/16665406/pooja-shinde)
 
-I'm Pooja Shinde
-FULL STACK DEVELOPMENT INTERSHIP EDUREKA 
+<h1 align="center">I'm Pooja Shinde</h1>
+<h3 align="center">FULL STACK DEVELOPMENT INTERSHIP EDUREKA</h3>
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in ORACLE, PHP, JAVASCRIPT, HTML, CSS and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a new career as a software engineer with a reputed firm driven by technology. Currrent  I am learning MERN Stack.You can reach me <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 
