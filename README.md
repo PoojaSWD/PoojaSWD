@@ -7,7 +7,7 @@
 I'm Pooja Shinde
 FULL STACK DEVELOPMENT INTERSHIP EDUREKA 
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in ORACLE, PHP, JAVASCRIPT, HTML, CSS and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a new career as a software engineer with a reputed firm driven by technology. Currrent  I am learnin MERN Stack.You can reach me <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+Strong in design and integration with intuitive problem-solving skills. Proficient in ORACLE, PHP, JAVASCRIPT, HTML, CSS and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start a new career as a software engineer with a reputed firm driven by technology. Currrent  I am learning MERN Stack.You can reach me <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 
 ![Visitor Count](https://profile-counter.glitch.me/PoojaSWD/count.svg)
 
