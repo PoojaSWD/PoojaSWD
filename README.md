@@ -5,9 +5,9 @@
 [![stackoverflow Badge](https://img.shields.io/badge/StackOverflow-PoojaShinde-yellow)](https://stackoverflow.com/users/16665406/pooja-shinde)
 
 <h1 align="center">I'm Pooja Shinde</h1>
-<h3 align="center">Passionate Automation Engineer Ready to Drive Innovation and Efficiency</h3>
+<h3 align="center">Automation Test Engineer | QA Enthusiast | ISTQB Certified</h3>
 
-Strong in design and integration with intuitive problem-solving skills. Proficient in SQL, Java(basic), Selenium, HTML, CSS, Manual testing, API testing and Javascript.Passionate about leveraging cutting-edge technology to optimize processes and enhance productivity. Looking to start a new career as a software Tester with a reputed firm driven by technology.You can reach me <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+I’m a passionate QA Engineer with 2+ years of experience in Automation Testing and Manual Testing, focused on delivering high-quality, bug-free applications. I specialize in building scalable test frameworks and ensuring seamless user experiences. <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 
 ![Visitor Count](https://profile-counter.glitch.me/PoojaSWD/count.svg)
 
