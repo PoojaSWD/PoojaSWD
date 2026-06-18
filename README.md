@@ -10,7 +10,6 @@
 I’m a passionate QA Engineer with 2+ years of experience in Automation Testing and Manual Testing, focused on delivering high-quality, bug-free applications. I specialize in building scalable test frameworks and ensuring seamless user experiences. <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 
 <h4>🔧 Tech Stack & Skills</h4>
-<br>
 💻 Automation Tools: Selenium WebDriver, TestNG, Cucumber (BDD)
 🧪 Testing Types: Functional, Regression, Smoke, Sanity, API Testing
 🌐 Languages: Java
@@ -19,9 +18,9 @@ I’m a passionate QA Engineer with 2+ years of experience in Automation Testing
 🔄 CI/CD: Jenkins (basic knowledge)
 📦 Build Tools: Maven
 🧾 Version Control: Git & GitHub
+<br>
 <h4>💼 Professional Experience
 </h4>
-<br>
 🏢 Automation Test Engineer
 Designed and developed automation frameworks using Selenium & TestNG
 Implemented BDD framework using Cucumber for better collaboration
@@ -29,26 +28,25 @@ Created reusable test scripts reducing execution time by 30–40%
 Performed API testing using Postman
 Worked closely with developers in Agile environment
 Identified and reported critical bugs using JIRA
-<h4>📊 What I Bring</h4>
 <br>
+<h4>📊 What I Bring</h4>
 ✔ Strong understanding of SDLC & STLC
 ✔ Hands-on experience in real-time projects
 ✔ Analytical thinking & bug detection skills
 ✔ Focus on quality, performance, and user experience
 <br>
-(https://profile-counter.glitch.me/PoojaSWD/count.svg)!>
 <h4>📈 Currently Learning</h4>
 <br>
-Playwright
+🔹Playwright
 <br>
-Prompt engineering for QA professional
+🔹Prompt engineering for QA professional
+<br>
 <h4>Featured Projects</h4>
-<br>
 🔹 Automation Framework (Selenium + TestNG)
 Developed hybrid framework using Page Object Model (POM)
 Integrated with Maven & Jenkins
 Generated detailed test reports
-<bt>
+<br>
 🔹 BDD Framework (Cucumber)
 Created feature files with scenarios
 Implemented step definitions in Java
